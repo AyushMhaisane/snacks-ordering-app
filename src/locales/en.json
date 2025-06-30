@@ -1,0 +1,17 @@
+{
+  "welcome": "Welcome to our Snacks Shop!",
+  "addToCart": "Add to Cart",
+  "quantity": "Quantity",
+  "filters": "Filters",
+  "searchPlaceholder": "Search for products...",
+  "priceRange": "Price Range:",
+  "all": "All",
+  "low": "₹0 - ₹300",
+  "mid": "₹301 - ₹600",
+  "high": "₹601+",
+  "noProducts": "No products found.",
+  "about": "About Us",
+  "aboutDesc": "We offer traditional Indian snacks freshly made with love and authentic flavors.",
+  "contact": "Contact Us",
+  "contactDesc": "Get in touch via WhatsApp or Instagram!"
+}

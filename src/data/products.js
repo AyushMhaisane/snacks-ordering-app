@@ -6,7 +6,10 @@ export const products = [
   price: 80,
   description: "Farsan is a collective term used for a variety of savory snacks originating from Gujarat and Maharashtra. It includes mixtures of fried or steamed items like gathiya, sev, bhajiyas, and more. Farsan is typically served as a snack or appetizer and is known for its rich flavors and varied textures — crispy, soft, spicy, and tangy. It's a festive favorite and often enjoyed during special occasions."
 ,
-  isVeg: true
+  isVeg: true,
+  ingredients: 'Rice flour, gram flour, butter or oil, sesame seeds, cumin, ajwain, chili powder, salt.',
+    shelfLife: '1 month if kept in airtight container.',
+    allergyInfo: 'Contains gluten and sesame seeds.'
 }
 ,
   {
